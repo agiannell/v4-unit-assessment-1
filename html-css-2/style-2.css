@@ -1,0 +1,168 @@
+h1 {
+    font-size: xx-large;
+    color: black;
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: x-large;
+    color: black;
+    font-weight: bolder;
+    margin-left: 10px;
+}
+
+h3 {
+    font-size: large;
+    color: black;
+    font-weight: bolder;
+}
+
+h4 {
+    font-size: medium;
+    color: black;
+    font-weight: bolder;
+    margin-left: 10px;
+    margin-top: 3%;
+}
+
+h5 {
+    color: black;
+    font-weight: bolder;
+}
+
+h6 {
+    font-size: small;
+    color: black;
+    font-weight: bolder;
+}
+
+nav {
+    width: 100%;
+    height: 7vh;
+    background-color: #45ffca;
+    padding: 2% 0;
+}
+
+header {
+    width: 97%;
+    height: 15vh;
+    border: 1px dashed black;
+    margin: 0 10px;
+    padding: 1%;
+}
+
+section {
+    width: 97%;
+    height: 40vh;
+    border: 1px dashed black;
+    margin: 0 10px;
+    padding: 1%;
+}
+
+footer {
+    width: 97%;
+    height: 20vh;
+    border: 1px dashed black;
+    margin: 0 10px;
+    padding: 1%;
+}
+
+.purp-rect {
+    width: 15vh;
+    height: 7vh;
+    float: left;
+    background-color: #3e0071;
+    border: 2px solid #f00;
+    margin-right: 2%;
+    margin-top: 5vh;
+}
+
+.blue-sq {
+    width: 7vh;
+    height: 7vh;
+    float: left;
+    background-color: #00f;
+    border: 1px solid #000;
+    box-shadow: 2px 2px 5px black;
+    margin-right: 2%;
+    margin-top: 5vh;
+
+}
+
+.pink-sq {
+    width: 12vh;
+    height: 12vh;
+    float: left;
+    background-color: #df5381;
+    border: 1px solid #000;
+    clear: right;
+}
+
+.top-ball {
+    width: 9vh;
+    height: 9vh;
+    margin-left: 3vh;
+    border-radius: 100%;
+    background-color: white;
+    border: 1.5px solid black;
+    padding-left: 2vh;
+    padding-top: 1.5vh;
+}
+
+.mid-ball {
+    width: 12vh;
+    height: 12vh;
+    margin-left: 1.5vh;
+    border-radius: 100%;
+    background-color: white;
+    border: 1.5px solid black;
+    padding-left: 5vh;
+    padding-top: 2vh;
+}
+
+.bot-ball {
+    width: 15vh;
+    height: 15vh;
+    border-radius: 100%;
+    background-color: white;
+    border: 1.5px solid black;
+}
+
+.tan-sq {
+    width: 17vh;
+    height: 17vh;
+    float: left;
+    background-color: #f3f2d3;
+    border: 1px solid #000;
+}
+
+.grn-cir {
+    width: 12vh;
+    height: 12vh;
+    border-radius: 100%;
+    background-color: #007000;
+    border: 1px solid black;
+    padding: 2vh;
+}
+
+.red-sq {
+    width: 8vh;
+    height: 8vh;
+    float: left;
+    background-color: #a00e1e;
+}
+
+.blue-cir {
+    width: 6.5vh;
+    height: 6.5vh;
+    border-radius: 100%;
+    background-color: #00f;
+    padding: 1.5vh;
+}
+
+.tank {
+    color: white;
+    font-size: x-small;
+    text-align: center;
+    vertical-align: bottom;
+}
